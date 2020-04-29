@@ -25,9 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-today is 2020/04/29.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+today is 2020/04/29.
 
 ### Jekyll Themes
 
